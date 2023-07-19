@@ -1,6 +1,4 @@
-# learn-shell
+# learn-shell 
 
 
-
-
-i am learning shell scipting 
+shell scripting, we learn bash shell scripting
